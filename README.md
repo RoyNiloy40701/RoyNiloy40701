@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niloy Roy</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 <h4>I am highly adaptable and eager to learn new technologies and development techniques.  I work effectively both independently and as part of a team, with strong communication skills that facilitate collaboration and knowledge sharing. With a focus on delivering efficient, maintainable code, I am committed to producing high-quality software solutions and consistently meet deadlines with minimal supervision.</h6>
 
